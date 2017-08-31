@@ -2,7 +2,7 @@
 This project uses [Jasmine](http://jasmine.github.io/) to perform tests over a feed reader webpage.
 
 ## Execution
-Download or clone the project and open the `index.html` file in a web browser or try the [live version](https://rafer23.github.io/udacity-feed-reader)
+Download or clone the project and open the `index.html` file in a web browser or try the [live version](https://rafer23.github.io/udacity-feed-reader/)
 
 ## Tests Made
 
